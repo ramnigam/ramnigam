@@ -53,11 +53,11 @@
 
 
 
-## ⚡Github Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramnigam&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramnigam&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramnigam&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Gauravsingh-work&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh-work&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh-work&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
 
 ## CONNECT WITH ME
@@ -79,9 +79,10 @@
 </p>  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ramnigam&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ramnigam&icon=0&color=0)](https://visitcount.itsvg.in)
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
 
 
@@ -95,4 +96,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Happy Coding!</i> 😊
 
 </div>
+
+
+
+
+
 
