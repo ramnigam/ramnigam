@@ -12,7 +12,7 @@
 - 🥅 My Goals: Explore the more and more research of Deep learning, and Analysis.
 - 📫 Reach me at : [Ram Nigam](mailto:ram.nigam9883@gmail.com)
 - 💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .
-- 👨‍💻 Checkout my Featured Projects at : (Ram Nigam)[https://www.linkedin.com/in/gauravsingh2112/](https://www.linkedin.com/in/ramnigam]
+- 👨‍💻 Checkout my Featured Projects at : [Ram Nigam](https://www.linkedin.com/in/ramnigam)
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
 
  <br>
