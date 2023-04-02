@@ -7,7 +7,7 @@
 
 
 ### ABOUT ME
-- 🌱 Interest Areas: Python Developer | Data Analyst | Data Scientist | Data Engineer etc.
+- 🌱 Interest Areas: Data Analyst | Data Scientist | Data Engineer etc.
 - 👯 I’m looking to collaborate on Open Source Projects & Research in Deep Learning.
 - 🥅 My Goals: Explore the more and more research of Deep learning, and Analysis.
 - 📫 Reach me at : [Ram Nigam](mailto:ram.nigam9883@gmail.com)
@@ -64,14 +64,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/Gauravsingh-work"><img alt="Github" title="Gaurav Singh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ramnigam"><img alt="Github" title="Ram Nigam Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <p align="center">
-  <a href="www.linkedin.com/in/gauravsingh2112"><img alt="Linkedin" title="Gaurav Singh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/mgaurav17/"><img alt="Instagram" title="Gaurav Singh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ramnigam"><img alt="Linkedin" title="Ram Nigam Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/__raghav____/"><img alt="Instagram" title="Ram Nigam Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:studymail0436@gmail.com"><img alt="Gmail" title="Gaurav Singh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/gauravsingh2114"><img alt="Twitter" title="Gaurav Singh Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:ram.nigam9883@gmail.com"><img alt="Gmail" title="Ram Nigam Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/Raghav24286082"><img alt="Twitter" title="Ram Nigam Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
 <!--  For Animated horizontal lines -->
